@@ -51,7 +51,7 @@ In the fall of 2025, the Revolutions podcast will return to its roots by diving 
 		<podcast:locked owner="revolutionspodcast@gmail.com">no</podcast:locked>
 		
 		<item>
-			<title>11.25-The Disaster</title>
+			<title>-11.25 The Disaster</title>
 			<itunes:title>11.25-The Disaster</itunes:title>
 			<pubDate>Mon, 12 May 2025 00:55:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[fa354f60-bb59-4a6b-bbe3-1609aef74b61]]></guid>
@@ -66,7 +66,7 @@ In the fall of 2025, the Revolutions podcast will return to its roots by diving 
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>11.24-The Trial of the Earthworms</title>
+			<title>-11.24 The Trial of the Earthworms</title>
 			<itunes:title>11.24-The Trial of the Earthworms</itunes:title>
 			<pubDate>Mon, 05 May 2025 02:56:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[f94308ae-d146-4d8f-8cb6-47ea515d28b9]]></guid>
@@ -83,7 +83,7 @@ In the fall of 2025, the Revolutions podcast will return to its roots by diving 
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title>11.23-The Trial of the Earthlings</title>
+			<title>0.3 The Trial of the Earthlings</title>
 			<itunes:title>11.23-The Trial of the Earthlings</itunes:title>
 			<pubDate>Mon, 21 Apr 2025 03:05:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[8b22e062-3ba8-438e-a25c-d1195f823037]]></guid>
