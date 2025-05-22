@@ -35,15 +35,1550 @@
 
 
 		<podcast:locked owner="">no</podcast:locked>    <item>
-			<title>Episode 1: History as Therapy</title>
+			<title>BHACHOCAJ Episode 1: History as Therapy</title>
 			<itunes:title>Episode 1: History as Therapy</itunes:title>
 			<pubDate>17 Jan, 2018</pubDate>
-			<guid isPermaLink="false"></guid>
+			<description><![CDATA[]]</description>
 			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/v4xhja/Episode_1.mp3"/>
 			<itunes:duration>01:29:58</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Justin M. Jacobs</itunes:author>
     </item>
-   </channel>
+    <item>
+			<title>TCHP Ep. 15 | The Shang Dynasty</title>
+			<itunes:title>Ep. 15 | The Shang Dynasty</itunes:title>
+			<pubDate>15 Sep, 2010</pubDate>
+			<description><![CDATA[This time in our briefest of dynasty overviews, we examine the Shang Dynasty 1600 to 1046 BC. Chi]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM8259499276.mp3?dest-id=4955980"/>
+			<itunes:duration>35:17</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>HOP 000: Introduction</title>
+			<itunes:title>000: Introduction</itunes:title>
+			<pubDate>12 Feb, 2019</pubDate>
+			<description><![CDATA[Welcome Everyone! This is the introductory episode to the show, just so you can get an idea for t]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/9c0c5de7-0b0d-4399-b0f3-f9a077a0161c/stream.mp3"/>
+			<itunes:duration>732</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 2: China before China</title>
+			<itunes:title>Episode 2: China before China</itunes:title>
+			<pubDate>17 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/q9kn3x/Episode_2.mp3"/>
+			<itunes:duration>01:13:19</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>THOR 001- In the Beginning</title>
+			<itunes:title>001- In the Beginning</itunes:title>
+			<pubDate>28 Jul, 2007</pubDate>
+			<description><![CDATA[Welcome to The History of Rome, a weekly series tracing the rise and fall of the Roman Empire. To]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/01-_In_the_Beginning.mp3?dest-id=5627"/>
+			<itunes:duration>11:49</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 3: East Asian Languages</title>
+			<itunes:title>Episode 3: East Asian Languages</itunes:title>
+			<pubDate>17 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/8thwyb/Episode_3.mp3"/>
+			<itunes:duration>01:32:01</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>HOP 01: Assyria and Setting the Stage</title>
+			<itunes:title>01: Assyria and Setting the Stage</itunes:title>
+			<pubDate>12 Feb, 2019</pubDate>
+			<description><![CDATA[Here we go, episode 1! Now, as much as I want to get to <em>Persian</em> history, we should proba]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/6a133cda-82df-41b8-9070-3bd19815c872/stream.mp3"/>
+			<itunes:duration>2847</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 02: Indo-Iranians</title>
+			<itunes:title>02: Indo-Iranians</itunes:title>
+			<pubDate>12 Feb, 2019</pubDate>
+			<description><![CDATA[Last time, we got up to speed on what was going on in the Near East in the centuries before the P]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/7d80bc7f-fba5-4a21-9be3-6c1aa15cedea/stream.mp3"/>
+			<itunes:duration>1684</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 43: Thus Spoke Zarathustra</title>
+			<itunes:title>43: Thus Spoke Zarathustra</itunes:title>
+			<pubDate>20 Oct, 2020</pubDate>
+			<description><![CDATA[By audience demand, we&#39;re headed back in time. Before wrapping up the reign of Darius, it&#39]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/9f60d4c3-daaa-480b-ab53-36e0b39eda08/stream.mp3"/>
+			<itunes:duration>2908</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 44: Also Sprach Zarathustra</title>
+			<itunes:title>44: Also Sprach Zarathustra</itunes:title>
+			<pubDate>24 Oct, 2020</pubDate>
+			<description><![CDATA[This is the second part of the two-part discussion on the life and times of Zoroaster. This time,]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/f53f9b37-acc9-40cd-a220-50233f10b918/stream.mp3"/>
+			<itunes:duration>2240</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 4: The Book of Odes</title>
+			<itunes:title>Episode 4: The Book of Odes</itunes:title>
+			<pubDate>22 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/sabe7i/Episode_4.mp3"/>
+			<itunes:duration>01:13:25</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 16 | The Western Zhou Dynasty</title>
+			<itunes:title>Ep. 16 | The Western Zhou Dynasty</itunes:title>
+			<pubDate>23 Sep, 2010</pubDate>
+			<description><![CDATA[Today we take a 走马看花 look at the 790 year Zhou Dynasty, the longest dynasty in Chinese history. In t]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM2835551074.mp3?dest-id=4955980"/>
+			<itunes:duration>19:04</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>THOR 002- Youthful Indiscretions</title>
+			<itunes:title>002- Youthful Indiscretions</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[Last time we discussed the events that lead to the birth of Rome,
+covering the arrival of Aeneas in ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/02-_Youthful_Indiscretions.mp3?dest-id=5627"/>
+			<itunes:duration>11:51</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>HOP 03: Babylonians and Medes</title>
+			<itunes:title>03: Babylonians and Medes</itunes:title>
+			<pubDate>12 Feb, 2019</pubDate>
+			<description><![CDATA[We&#39;re bringing the stories from the last two episodes together now. The Medes and the Babylon]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/71981bad-4adc-474a-b693-70f2eb9fc6e1/stream.mp3"/>
+			<itunes:duration>1712</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>THOR 003a- The Seven Kings of Rome</title>
+			<itunes:title>003a- The Seven Kings of Rome</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[This week we cover the first three of Romulus&#39;s successors to the
+throne: Numa Pompulius, Tullus Hos]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/03a-_The_Seven_Kings_of_Rome.mp3?dest-id=5627"/>
+			<itunes:duration>16:01</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>THOR 003b- The Seven Kings of Rome</title>
+			<itunes:title>003b- The Seven Kings of Rome</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[The last days of the Roman Kingdom were ruled over by the three members
+of the so-called Tarquin Dyn]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/03b-_The_Seven_Kings_of_Rome.mp3?dest-id=5627"/>
+			<itunes:duration>18:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 5: Confucius and the Analects</title>
+			<itunes:title>Episode 5: Confucius and the Analects</itunes:title>
+			<pubDate>22 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/658pmp/Episode_5.mp3"/>
+			<itunes:duration>01:34:04</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>HOP 04: Cyrus II, King of Anshan</title>
+			<itunes:title>04: Cyrus II, King of Anshan</itunes:title>
+			<pubDate>26 Feb, 2019</pubDate>
+			<description><![CDATA[Around 550 BCE, King Cyrus II of Anshan went into revolt against the Median King Astyages. The yo]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/9759364e-342b-4539-af91-ac1a5a618c30/stream.mp3"/>
+			<itunes:duration>1679</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 13: Kingship 101</title>
+			<itunes:title>13: Kingship 101</itunes:title>
+			<pubDate>26 Jun, 2019</pubDate>
+			<description><![CDATA[ What did it mean to be an early king of Persia? They were divine, but not quite. Warriors and ec]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/6068a736-d267-470c-980e-91690d62e11a/stream.mp3"/>
+			<itunes:duration>1750</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 14: Princes, Princesses, Kings, and Queens</title>
+			<itunes:title>14: Princes, Princesses, Kings, and Queens</itunes:title>
+			<pubDate>09 Jul, 2019</pubDate>
+			<description><![CDATA[The narrative lurches forward again with a discussion of the new cast, so to speak. Meet Cambyses]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/3b315116-0d2a-4d23-8de1-92d961e423cb/stream.mp3"/>
+			<itunes:duration>1732</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 05: Crossing the Halys</title>
+			<itunes:title>05: Crossing the Halys</itunes:title>
+			<pubDate>12 Mar, 2019</pubDate>
+			<description><![CDATA[Just as Cyrus the Great, now officially the King of Persia, was consolidating his hold over the r]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/eec67c42-46ac-4c9e-b75d-cfb226df9620/stream.mp3"/>
+			<itunes:duration>2195</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 06: Introducing Ionia</title>
+			<itunes:title>06: Introducing Ionia</itunes:title>
+			<pubDate>26 Mar, 2019</pubDate>
+			<description><![CDATA[Cyrus&#39;s generals take the reins for a bit and the Persian conquerors face their most grueling]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/6d96f314-4661-4bd4-91df-826b204c6bc7/stream.mp3"/>
+			<itunes:duration>2319</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 07: The Writing on the Wall</title>
+			<itunes:title>07: The Writing on the Wall</itunes:title>
+			<pubDate>09 Apr, 2019</pubDate>
+			<description><![CDATA[In Babylon, October of 539 BCE began in the 17th year of the reign of Nabonidus, but it ended in ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/6f7303c4-9245-44e9-aaec-57cd1265bf32/stream.mp3"/>
+			<itunes:duration>2565</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 08: Fill in the Titles</title>
+			<itunes:title>08: Fill in the Titles</itunes:title>
+			<pubDate>16 Apr, 2019</pubDate>
+			<description><![CDATA[Cyrus the Great has finally completed his conquests in our narrative. I break down the Cyrus Cyli]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/71336091-9fc2-4994-ad1f-f837d6e6d7c2/stream.mp3"/>
+			<itunes:duration>2492</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 09: Who Are You Again?</title>
+			<itunes:title>09: Who Are You Again?</itunes:title>
+			<pubDate>30 Apr, 2019</pubDate>
+			<description><![CDATA[This time we&#39;re taking a break from the narrative for a bit. Now that this show has all of Cy]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/5ff787a5-d989-4650-ac09-4bd3caa1b6a4/stream.mp3"/>
+			<itunes:duration>1759</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 10: Governing An Empire</title>
+			<itunes:title>10: Governing An Empire</itunes:title>
+			<pubDate>14 May, 2019</pubDate>
+			<description><![CDATA[ What exactly is a Satrap? Is there such a thing as a Satrapy? How did all of these people manage]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/0494b62d-048a-4074-8a14-93e065e0e7f0/stream.mp3"/>
+			<itunes:duration>1841</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 11: King of Kings</title>
+			<itunes:title>11: King of Kings</itunes:title>
+			<pubDate>28 May, 2019</pubDate>
+			<description><![CDATA[Returning to the narrative, it&#39;s time to see what Cyrus got up to in the final decade of his ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/4250e517-5b6b-4668-8648-f8f404296c6c/stream.mp3"/>
+			<itunes:duration>1755</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Episode 12: Iranian Religion</title>
+			<itunes:title>Episode 12: Iranian Religion</itunes:title>
+			<pubDate>11 Jun, 2019</pubDate>
+			<description><![CDATA[ It&#39;s time to introduce religion into the mix, starting with the origins and background of an]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/3475e6c0-06f8-4e49-989a-d2380c6049c1/stream.mp3"/>
+			<itunes:duration>2454</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 15: The Army That Conquered The World</title>
+			<itunes:title>15: The Army That Conquered The World</itunes:title>
+			<pubDate>23 Jul, 2019</pubDate>
+			<description><![CDATA[In preparation for Cambyses&#39; invasion of Egypt, we&#39;re covering the early Persian armies. ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/afbbd478-b448-4587-8613-67211deeac23/stream.mp3"/>
+			<itunes:duration>1841</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 16: Pharaoh Cambyses</title>
+			<itunes:title>16: Pharaoh Cambyses</itunes:title>
+			<pubDate>06 Aug, 2019</pubDate>
+			<description><![CDATA[In 525 BCE, the Persian army crossed into Egypt, in what seems to have been the culmination of ye]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/1e2bd58e-032d-4738-a39d-dd78fc057027/stream.mp3"/>
+			<itunes:duration>2300</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 17: The Mad King</title>
+			<itunes:title>17: The Mad King</itunes:title>
+			<pubDate>20 Aug, 2019</pubDate>
+			<description><![CDATA[The story of Cambyses isn&#39;t just the conquest of Egypt, but also the dark side of it. Accordi]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/d5ce3826-ae98-4dfb-85e2-302b6596451d/stream.mp3"/>
+			<itunes:duration>1541</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Announcement 01: Croeseids</title>
+			<itunes:title>Announcement 01: Croeseids</itunes:title>
+			<pubDate>28 Aug, 2019</pubDate>
+			<description><![CDATA[Hello everyone! I&#39;ve got some announcements, updates, and news about the show for you, and as]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/b103ce64-7abc-464e-90a1-708184320dca/stream.mp3"/>
+			<itunes:duration>1267</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 18: The Tyrant and The Kings</title>
+			<itunes:title>18: The Tyrant and The Kings</itunes:title>
+			<pubDate>03 Sep, 2019</pubDate>
+			<description><![CDATA[The story of Polykrates, the Tyrant of Samos, intersects repeatedly with the history of the Persi]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/3ce3238c-2723-430b-af60-51bef2837320/stream.mp3"/>
+			<itunes:duration>1685</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 19: Three Kings and The Magi</title>
+			<itunes:title>19: Three Kings and The Magi</itunes:title>
+			<pubDate>17 Sep, 2019</pubDate>
+			<description><![CDATA[In 522 BCE, the Persian Empire sat on the edge of Chaos. Between March and September of that year]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/ddb233e9-7d7c-4c62-bb5d-33a556e8a04f/stream.mp3"/>
+			<itunes:duration>2738</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 20: The Forgotten King</title>
+			<itunes:title>20: The Forgotten King</itunes:title>
+			<pubDate>02 Oct, 2019</pubDate>
+			<description><![CDATA[522 BCE was a crazy year for the Persian Empire. That was the year that Bardiya - or maybe Gaumat]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/187dd31b-82a6-439f-b571-7bedadbe812e/stream.mp3"/>
+			<itunes:duration>1446</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 21: The Faith of the Magi</title>
+			<itunes:title>21: The Faith of the Magi</itunes:title>
+			<pubDate>15 Oct, 2019</pubDate>
+			<description><![CDATA[After all that business with Gaumata that Magos, I figured we had time to keep talking about magi]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/cee53570-63fe-4b48-afd2-28fe4dd12057/stream.mp3"/>
+			<itunes:duration>2330</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 22: Putting Out Fires</title>
+			<itunes:title>22: Putting Out Fires</itunes:title>
+			<pubDate>30 Oct, 2019</pubDate>
+			<description><![CDATA[No sooner was Bardiya dead, than the newly minted King Darius had to turn his attention on rebell]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/a7be34ee-5efb-4558-a9b5-b43daed23594/stream.mp3"/>
+			<itunes:duration>2459</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 24: Darius the Great</title>
+			<itunes:title>24: Darius the Great</itunes:title>
+			<pubDate>26 Nov, 2019</pubDate>
+			<description><![CDATA[With most of the Persian Empire firmly under his control in 519 BCE, Darius the Great set off to ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/2643bf11-03f6-4a68-80a9-80f2074ced70/stream.mp3"/>
+			<itunes:duration>1780</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>THOR 004- The Public Thing</title>
+			<itunes:title>004- The Public Thing</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[The monarchy had been overthrown and the Roman Republic was now
+established. Despite the appearance ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/04-_The_Public_Thing.mp3?dest-id=5627"/>
+			<itunes:duration>14:46</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>HOP 25: Behistun</title>
+			<itunes:title>25: Behistun</itunes:title>
+			<pubDate>13 Dec, 2019</pubDate>
+			<description><![CDATA[It&#39;s finally time to talk about the famous Behistun Inscription, commissioned by Darius to co]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/bba26583-e8a5-4ff7-bee7-07ad0b68fb8a/stream.mp3"/>
+			<itunes:duration>1966</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Holiday Special 2019</title>
+			<itunes:title>Holiday Special 2019</itunes:title>
+			<pubDate>25 Dec, 2019</pubDate>
+			<description><![CDATA[Happy Holidays Everyone! In place of a regular episode this week, we have the first annual Histor]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/72799b61-b7bb-401f-8bd5-3567cd569e29/stream.mp3"/>
+			<itunes:duration>1338</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 26: The Grand Tour, Part 1</title>
+			<itunes:title>26: The Grand Tour, Part 1</itunes:title>
+			<pubDate>17 Jan, 2020</pubDate>
+			<description><![CDATA[With the Persian Empire at its greatest ever extent, it&#39;s time to start a tour of the empire.]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/7abc2f3d-ae5f-41cd-9bcf-b0e54ff08650/stream.mp3"/>
+			<itunes:duration>3309</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 27: The Grand Tour, Part 2</title>
+			<itunes:title>27: The Grand Tour, Part 2</itunes:title>
+			<pubDate>30 Jan, 2020</pubDate>
+			<description><![CDATA[The tour of the Persian Empire continues, this time covering the western Satrapies. I&#39;m explo]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/de7a556f-dbca-4b27-b759-dd66645ee8fa/stream.mp3"/>
+			<itunes:duration>2458</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Happy Birthday</title>
+			<itunes:title>Happy Birthday</itunes:title>
+			<pubDate>12 Feb, 2020</pubDate>
+			<description><![CDATA[Today is the one year anniversary of launching the History of Persia podcast. Thank you all so mu]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/fcd2291b-b01d-4212-a289-5fb66aa5cd1b/stream.mp3"/>
+			<itunes:duration>423</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 28: The Grand Tour, Part 3</title>
+			<itunes:title>28: The Grand Tour, Part 3</itunes:title>
+			<pubDate>14 Feb, 2020</pubDate>
+			<description><![CDATA[The tour of the Persian Empire continues. This time I&#39;m going through the empire within the e]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/7d89c56e-9813-43d4-998a-d227a0a231bb/stream.mp3"/>
+			<itunes:duration>2399</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 29: The Grand Tour, Part 4</title>
+			<itunes:title>29: The Grand Tour, Part 4</itunes:title>
+			<pubDate>14 Feb, 2020</pubDate>
+			<description><![CDATA[It&#39;s the final stage of the tour! Our trip through the Persian Empire wraps up with three cen]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/113297f2-d60b-40f4-b7ab-f61edbc60949/stream.mp3"/>
+			<itunes:duration>1795</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 30: Persia City</title>
+			<itunes:title>30: Persia City</itunes:title>
+			<pubDate>07 Mar, 2020</pubDate>
+			<description><![CDATA[This time it&#39;s just one episode for a different kind of tour. Explore the early phases of con]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/cafdd119-8ac7-4368-9ca1-854123dbf232/stream.mp3"/>
+			<itunes:duration>2180</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Achaemenid Nowruz! 2020 Holiday Special</title>
+			<itunes:title>Achaemenid Nowruz! 2020 Holiday Special</itunes:title>
+			<pubDate>20 Mar, 2020</pubDate>
+			<description><![CDATA[To celebrate the Persian New Year&#39;s festival of Nowruz, check out the 2nd Sort-of Annual Holi]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/f15791bd-0fc7-43a2-a6e8-3b229b58e204/stream.mp3"/>
+			<itunes:duration>1661</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>THOR 005- Trials and Tribunlations</title>
+			<itunes:title>005- Trials and Tribunlations</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[The infant Roman Republic faced many challenges as it grew into
+adolescence, both internally and ext]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/05-_Trials_and_Tribunlations.mp3?dest-id=5627"/>
+			<itunes:duration>15:51</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 17 | The Eastern Zhou Dynasty</title>
+			<itunes:title>Ep. 17 | The Eastern Zhou Dynasty</itunes:title>
+			<pubDate>29 Sep, 2010</pubDate>
+			<description><![CDATA[In this episode we look at the second phase of the Zhou Dynasty. This period was known as the Easter]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM4968480927.mp3?dest-id=4955980"/>
+			<itunes:duration>29:09</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 12: Empires of the Steppe</title>
+			<itunes:title>Episode 12: Empires of the Steppe</itunes:title>
+			<pubDate>20 Feb, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/x7j7k9/Episode_12.mp3"/>
+			<itunes:duration>01:18:29</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>HOP 31: The Naxos Incident</title>
+			<itunes:title>31: The Naxos Incident</itunes:title>
+			<pubDate>27 Mar, 2020</pubDate>
+			<description><![CDATA[At the end of the 6th century BCE, a group of exiled aristocrats from the island of Naxos inadver]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/0b31d94b-b1ab-4682-b9a9-602115869c06/stream.mp3"/>
+			<itunes:duration>1955</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 32: Begun, the Greek Wars Have</title>
+			<itunes:title>32: Begun, the Greek Wars Have</itunes:title>
+			<pubDate>10 Apr, 2020</pubDate>
+			<description><![CDATA[To prepare ourselves for their role in the coming wars between Persian the Greek city states, I&#]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/32634d4d-2d50-41ad-b726-2c3ec6cb7fa9/stream.mp3"/>
+			<itunes:duration>2058</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 33: Revenge of the Persians</title>
+			<itunes:title>33: Revenge of the Persians</itunes:title>
+			<pubDate>24 Apr, 2020</pubDate>
+			<description><![CDATA[After the shocking attack on Sardis, many more Greek cities joined the Ionian Revolt, despite Per]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/08f3d6d3-02cb-4b37-91bc-90a247db180e/stream.mp3"/>
+			<itunes:duration>1380</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Interview: Dr. Michael Bonner</title>
+			<itunes:title>Interview: Dr. Michael Bonner</itunes:title>
+			<pubDate>11 May, 2020</pubDate>
+			<description><![CDATA[This time I have something a little different. In place of a regular narrative episode this week,]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/2be70f67-8772-4ff3-9aac-684e2af21ae2/stream.mp3"/>
+			<itunes:duration>3902</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 34: A New Fleet</title>
+			<itunes:title>34: A New Fleet</itunes:title>
+			<pubDate>22 May, 2020</pubDate>
+			<description><![CDATA[While three Persian land armies were spreading out over western Anatolia to contain and defeat th]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/2fe25209-4fb8-43ca-b7ff-2b070e2e803e/stream.mp3"/>
+			<itunes:duration>1638</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 35: The Empire Strikes Back</title>
+			<itunes:title>35: The Empire Strikes Back</itunes:title>
+			<pubDate>04 Jun, 2020</pubDate>
+			<description><![CDATA[It is a dark time for the Ionian Revolt. Although Sardis has been destroyed, Persian troops have ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/b15fc5d8-9287-4d51-bfff-e1e93f600a1f/stream.mp3"/>
+			<itunes:duration>1967</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 36: Return of the Tyrannoi</title>
+			<itunes:title>36: Return of the Tyrannoi</itunes:title>
+			<pubDate>22 Jun, 2020</pubDate>
+			<description><![CDATA[Even with Miletus defeated, the other rebel cities in shambles, Cyprus under control, and their a]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/d4b4c025-68d2-4b2c-9ed8-af9748cb50b6/stream.mp3"/>
+			<itunes:duration>1489</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 37: Greece Awakens</title>
+			<itunes:title>37: Greece Awakens</itunes:title>
+			<pubDate>03 Jul, 2020</pubDate>
+			<description><![CDATA[Even once the Ionian cities themselves were defeated, the consequences of their Revolt were ongoi]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/315f448d-0add-4e2c-9536-07c1ab9dde60/stream.mp3"/>
+			<itunes:duration>2071</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 38: The Last Battle</title>
+			<itunes:title>38: The Last Battle</itunes:title>
+			<pubDate>18 Jul, 2020</pubDate>
+			<description><![CDATA[Nearly a decade after Aristagoras first went into revolt, and longer since the Athenians had rene]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/d61429a5-7ae3-46df-9465-42db94852f53/stream.mp3"/>
+			<itunes:duration>3388</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 42: Darius the Shopkeeper</title>
+			<itunes:title>42: Darius the Shopkeeper</itunes:title>
+			<pubDate>22 Sep, 2020</pubDate>
+			<description><![CDATA[Darius the Great is one of Persia&#39;s most infamous kings for many reasons. An illegitimate hei]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/70212563-1910-4e42-b911-c0a2675cac7d/stream.mp3"/>
+			<itunes:duration>2345</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 41: The Greatest</title>
+			<itunes:title>41: The Greatest</itunes:title>
+			<pubDate>23 Aug, 2020</pubDate>
+			<description><![CDATA[To round out our series on Darius&#39; royal family, it&#39;s only fair to talk about the men of ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/504e5f59-30aa-4050-8935-ee6e4d6fba51/stream.mp3"/>
+			<itunes:duration>1928</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 45: Xerxes Porphyrogennetos</title>
+			<itunes:title>45: Xerxes Porphyrogennetos</itunes:title>
+			<pubDate>10 Nov, 2020</pubDate>
+			<description><![CDATA[In 486 BCE, Darius the Great died and passed the Persian Empire on to his son, Xerxes. With plans]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/45d0a3ca-ce76-4e46-b6eb-7363e055c8df/stream.mp3"/>
+			<itunes:duration>2346</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 40: Heiresses of the Empire</title>
+			<itunes:title>40: Heiresses of the Empire</itunes:title>
+			<pubDate>13 Aug, 2020</pubDate>
+			<description><![CDATA[There were many Duksis (royal women) in Darius&#39; household, and there would be many more in fu]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/9ed3e2ed-c829-4d9e-944d-167580babfb9/stream.mp3"/>
+			<itunes:duration>2696</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 46: The Persian Emperor</title>
+			<itunes:title>46: The Persian Emperor</itunes:title>
+			<pubDate>07 Dec, 2020</pubDate>
+			<description><![CDATA[In 486 BCE, Darius the Great died while Egypt was in revolt. Over the following years, Xerxes put]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/25163cf9-e2c5-469c-80db-dd55b8016b6e/stream.mp3"/>
+			<itunes:duration>2257</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 39: Rise of Achaemeneis</title>
+			<itunes:title>39: Rise of Achaemeneis</itunes:title>
+			<pubDate>10 Aug, 2020</pubDate>
+			<description><![CDATA[Our sources for Achaemenid history are clearly biased towards the stories of men in the ancient w]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/5919ebe4-2ecb-4721-bd83-44c6ebacb4f0/stream.mp3"/>
+			<itunes:duration>2843</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 47: Preparing the Way</title>
+			<itunes:title>47: Preparing the Way</itunes:title>
+			<pubDate>20 Dec, 2020</pubDate>
+			<description><![CDATA[From 484-481 BCE, Xerxes directed his subjects to prepare for war in Greece. This didn&#39;t just]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/8b31aa3c-5656-4089-9256-429bc5d7456a/stream.mp3"/>
+			<itunes:duration>2680</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 48: What is your profession?</title>
+			<itunes:title>48: What is your profession?</itunes:title>
+			<pubDate>02 Feb, 2021</pubDate>
+			<description><![CDATA[Before launching into the actual warfare between the Persian Empire and Greek city states, it&#39]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/72b39ef9-e068-4c15-b660-49e88e8b609a/stream.mp3"/>
+			<itunes:duration>2161</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 49: Breaking Through</title>
+			<itunes:title>49: Breaking Through</itunes:title>
+			<pubDate>17 Feb, 2021</pubDate>
+			<description><![CDATA[Late in the summer of 480 BCE, the Persian invasion force under King Xerxes came to blows with th]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/1285fd71-e47d-4a7e-b1ae-7b0176ee48f8/stream.mp3"/>
+			<itunes:duration>2429</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Purim: Holiday Special 2021</title>
+			<itunes:title>Purim: Holiday Special 2021</itunes:title>
+			<pubDate>25 Feb, 2021</pubDate>
+			<description><![CDATA[It&#39;s that somewhat random time of year again, where I set aside a bit of time to celebrate a ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/6bbb425c-92c5-4c60-aa65-b126733e0fd0/stream.mp3"/>
+			<itunes:duration>2305</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Interview: Uzume Wijnsma</title>
+			<itunes:title>Interview: Uzume Wijnsma</itunes:title>
+			<pubDate>21 Mar, 2021</pubDate>
+			<description><![CDATA[I sat down with an interview with Uzume Wijnsma, a researcher and PhD candidate at the University]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/867acb36-c8d0-4151-a1ce-30d09347c288/stream.mp3"/>
+			<itunes:duration>2804</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 51: Defeat from the Jaws of Victory</title>
+			<itunes:title>51: Defeat from the Jaws of Victory</itunes:title>
+			<pubDate>08 Apr, 2021</pubDate>
+			<description><![CDATA[September 480 BCE marked the high point for the Persian army in Greece. Athens was the smoldering]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/428c14f5-1447-40ee-ae30-aed2ccc39e06/stream.mp3"/>
+			<itunes:duration>2580</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 52: The Adventure Continues</title>
+			<itunes:title>52: The Adventure Continues</itunes:title>
+			<pubDate>24 Apr, 2021</pubDate>
+			<description><![CDATA[At the end of 480 BCE, there was a lull in the conflict between the Greeks and Persians, but not ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/1df82672-c8b9-4762-9195-5e72a7984c1f/stream.mp3"/>
+			<itunes:duration>2565</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP Interview: Sean Manning</title>
+			<itunes:title>Interview: Sean Manning</itunes:title>
+			<pubDate>10 May, 2021</pubDate>
+			<description><![CDATA[I sat down with Dr. Sean Manning, author of the new book: <a href="https://elibrary.steiner-verla]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/89935506-fd81-48b4-b9d8-3df736a52be4/stream.mp3"/>
+			<itunes:duration>3562</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 53: One By Land</title>
+			<itunes:title>53: One By Land</itunes:title>
+			<pubDate>24 May, 2021</pubDate>
+			<description><![CDATA[After a year of relative success, the Persian occupation of northern Greece received its second m]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/226d597d-ec86-4f1c-b7fd-f723bac2b5b5/stream.mp3"/>
+			<itunes:duration>2616</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 54: Two By "Sea"</title>
+			<itunes:title>54: Two By "Sea"</itunes:title>
+			<pubDate>15 Jun, 2021</pubDate>
+			<description><![CDATA[Supposedly on the same day as the Battle of Plataea, another battle was unfolding at the foot of ]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/8d425a1d-1f34-48d5-b605-4b07d3b94b32/stream.mp3"/>
+			<itunes:duration>1861</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>HOP 55: Still Loud on the Western Front</title>
+			<itunes:title>55: Still Loud on the Western Front</itunes:title>
+			<pubDate>10 Jul, 2021</pubDate>
+			<description><![CDATA[After the Persian defeat at Mycale, the stories of the Greco-Persian war get less dramatic, but t]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/67ec67d5-5e67-465f-8b13-fb3dad27001c/stream.mp3"/>
+			<itunes:duration>2165</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 6: Mozi and the Invention of Logic</title>
+			<itunes:title>Episode 6: Mozi and the Invention of Logic</itunes:title>
+			<pubDate>22 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/s2wqxf/Episode_6.mp3"/>
+			<itunes:duration>33:10</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 7: Daoism, Zhuangzi, and the Way</title>
+			<itunes:title>Episode 7: Daoism, Zhuangzi, and the Way</itunes:title>
+			<pubDate>29 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/fgc8tv/Episode_7.mp3"/>
+			<itunes:duration>53:52</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>THOR 006- The Twelve Tables</title>
+			<itunes:title>006- The Twelve Tables</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[In 451 BC a committee was ordered to compile and then condense Roman
+law into a single text called t]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/06__The_Twelve_Tables.mp3?dest-id=5627"/>
+			<itunes:duration>15:57</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>THOR 007- The Roman Washington</title>
+			<itunes:title>007- The Roman Washington</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[Cincinnatus was famously appointed dictator of Rome in 458 BC and then
+resigned soon after, securing]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/07-_The_Roman_Washington.mp3?dest-id=5627"/>
+			<itunes:duration>12:10</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>THOR 008- Decades of Gloom</title>
+			<itunes:title>008- Decades of Gloom</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[The years after the creation of the Twelve Tables were hard. Political
+discord, grain shortages and ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/08__Decades_of_Gloom.mp3?dest-id=5627"/>
+			<itunes:duration>15:25</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>THOR 009- A Trojan War</title>
+			<itunes:title>009- A Trojan War</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[Economic necessity forced a final conflict with Veii, Rome&#39;s Etruscan
+rival to the north. After year]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/09-_A_Trojan_War.mp3?dest-id=5627"/>
+			<itunes:duration>13:53</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>THOR 010: Barbarians at the Gates</title>
+			<itunes:title>010: Barbarians at the Gates</itunes:title>
+			<pubDate>25 Feb, 2010</pubDate>
+			<description><![CDATA[Soon after the war with Veii, Rome was sacked by invading Gauls. The
+event traumatized the Romans an]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/historyofrome/10-_Barbarians_at_the_Gates.mp3?dest-id=5627"/>
+			<itunes:duration>15:49</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Mike Duncan</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 8: Mencius, or "Just Do It"</title>
+			<itunes:title>Episode 8: Mencius, or "Just Do It"</itunes:title>
+			<pubDate>29 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/mnc78v/Episode_8.mp3"/>
+			<itunes:duration>42:41</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 9: Xunzi (the Most Awesome Confucian)</title>
+			<itunes:title>Episode 9: Xunzi (the Most Awesome Confucian)</itunes:title>
+			<pubDate>29 Jan, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/hph9az/Episode_9.mp3"/>
+			<itunes:duration>45:03</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 10: Han Feizi and the First Empires</title>
+			<itunes:title>Episode 10: Han Feizi and the First Empires</itunes:title>
+			<pubDate>05 Feb, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/vfnnxv/Episode_10.mp3"/>
+			<itunes:duration>01:08:29</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 18 | The Han Dynasty (Part 1)</title>
+			<itunes:title>Ep. 18 | The Han Dynasty (Part 1)</itunes:title>
+			<pubDate>13 Oct, 2010</pubDate>
+			<description><![CDATA[In this week&#39;s episode we look at only the first few decades of the Western Han Dynasty. The Western]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM2870150439.mp3?dest-id=4955980"/>
+			<itunes:duration>22:14</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 19: The Silk Road</title>
+			<itunes:title>Episode 19: The Silk Road</itunes:title>
+			<pubDate>11 Apr, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/379uby/Episode_19.mp3"/>
+			<itunes:duration>59:56</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 19 | The Han Dynasty (Part 2)</title>
+			<itunes:title>Ep. 19 | The Han Dynasty (Part 2)</itunes:title>
+			<pubDate>21 Oct, 2010</pubDate>
+			<description><![CDATA[Today we present the second part of the Western Han Dynasty overview where we will look at the great]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM6545251371.mp3?dest-id=4955980"/>
+			<itunes:duration>30:01</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 3 | The Four Great Inventions</title>
+			<itunes:title>Ep. 3 | The Four Great Inventions</itunes:title>
+			<pubDate>24 Jun, 2010</pubDate>
+			<description><![CDATA[Today we look at the Four Great Inventions, the 四大发明, that Lord Francis Bacon hailed as having done ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM7936234550.mp3?dest-id=4955980"/>
+			<itunes:duration>29:39</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 20 | The Han Dynasty (Part 3)</title>
+			<itunes:title>Ep. 20 | The Han Dynasty (Part 3)</itunes:title>
+			<pubDate>30 Oct, 2010</pubDate>
+			<description><![CDATA[In this final installment of the Han Dynasty overview, we look at the reign of Wang Mang during the ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM5658001008.mp3?dest-id=4955980"/>
+			<itunes:duration>31:07</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 13: Religion in Ancient China</title>
+			<itunes:title>Episode 13: Religion in Ancient China</itunes:title>
+			<pubDate>02 Mar, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/qyxdbp/Episode_13.mp3"/>
+			<itunes:duration>01:05:20</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 22: Travel in Premodern China</title>
+			<itunes:title>Episode 22: Travel in Premodern China</itunes:title>
+			<pubDate>25 Apr, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/k8d4bm/Episode_22.mp3"/>
+			<itunes:duration>39:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 20: Korea in the Chinese World Order</title>
+			<itunes:title>Episode 20: Korea in the Chinese World Order</itunes:title>
+			<pubDate>25 Apr, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/8wwg5z/Episode_20.mp3"/>
+			<itunes:duration>39:18</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 11: The Great Southern Migration</title>
+			<itunes:title>Episode 11: The Great Southern Migration</itunes:title>
+			<pubDate>12 Feb, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/nvnjdk/Episode_11.mp3"/>
+			<itunes:duration>49:27</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 22 | The Three Kingdoms and the Jin Dynasty</title>
+			<itunes:title>Ep. 22 | The Three Kingdoms and the Jin Dynasty</itunes:title>
+			<pubDate>16 Nov, 2010</pubDate>
+			<description><![CDATA[This week we are back with more Chinese history. We will look at a very confusing but exciting time ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM3557869926.mp3?dest-id=4955980"/>
+			<itunes:duration>32:57</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 23 | The Southern and Northern Kingdoms</title>
+			<itunes:title>Ep. 23 | The Southern and Northern Kingdoms</itunes:title>
+			<pubDate>24 Nov, 2010</pubDate>
+			<description><![CDATA[The Southern & Northern Dynasties were a collection of dynasties that lasted 170 years and preceded ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM3775209340.mp3?dest-id=4955980"/>
+			<itunes:duration>34:23</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 24 | The Sui Dynasty</title>
+			<itunes:title>Ep. 24 | The Sui Dynasty</itunes:title>
+			<pubDate>01 Dec, 2010</pubDate>
+			<description><![CDATA[The demise of the Southern & Northern Dynasties brought us a China unified under the Sui emperors We]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM5579340201.mp3?dest-id=4955980"/>
+			<itunes:duration>20:09</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 15: Hu Are the Han?</title>
+			<itunes:title>Episode 15: Hu Are the Han?</itunes:title>
+			<pubDate>12 Mar, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/324jww/Episode_15.mp3"/>
+			<itunes:duration>55:46</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 25 | Tang Dynasty (Part 1)</title>
+			<itunes:title>Ep. 25 | Tang Dynasty (Part 1)</itunes:title>
+			<pubDate>09 Dec, 2010</pubDate>
+			<description><![CDATA[As the Sui peters out, Li Yuan, the Duke of Tang, seizes power and establishes the Tang Dynasty in 6]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM1894775035.mp3?dest-id=4955980"/>
+			<itunes:duration>25:13</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 7 | Wu Zetian</title>
+			<itunes:title>Ep. 7 | Wu Zetian</itunes:title>
+			<pubDate>20 Jul, 2010</pubDate>
+			<description><![CDATA[This week we look at the Tang dynasty Empress Wu Zetian, the only woman from Chinese history to rule]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM3745366655.mp3?dest-id=4955980"/>
+			<itunes:duration>16:30</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 14: Islam in China</title>
+			<itunes:title>Episode 14: Islam in China</itunes:title>
+			<pubDate>02 Mar, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/9erhpf/Episode_14.mp3"/>
+			<itunes:duration>39:47</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 26 | Tang Dynasty (Part 2)</title>
+			<itunes:title>Ep. 26 | Tang Dynasty (Part 2)</itunes:title>
+			<pubDate>03 Jan, 2011</pubDate>
+			<description><![CDATA[Laszlo is back after a holiday illness to continue where we left off in 705 with the passing of Wu Z]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM5312040107.mp3?dest-id=4955980"/>
+			<itunes:duration>27:27</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 16: Imperial Chinese Law</title>
+			<itunes:title>Episode 16: Imperial Chinese Law</itunes:title>
+			<pubDate>22 Mar, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/af5nqy/Episode_16.mp3"/>
+			<itunes:duration>01:01:52</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 17: Chinese Women and the Family</title>
+			<itunes:title>Episode 17: Chinese Women and the Family</itunes:title>
+			<pubDate>05 Apr, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/b9q75e/Episode_17.mp3"/>
+			<itunes:duration>01:10:32</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 27 | Tang Dynasty (Part 3)</title>
+			<itunes:title>Ep. 27 | Tang Dynasty (Part 3)</itunes:title>
+			<pubDate>10 Jan, 2011</pubDate>
+			<description><![CDATA[In today&#39;s final installment covering the history of the great Tang Dynasty, we look at its agonizin]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM7140940187.mp3?dest-id=4955980"/>
+			<itunes:duration>31:05</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 28 | The Northern Song Dynasty</title>
+			<itunes:title>Ep. 28 | The Northern Song Dynasty</itunes:title>
+			<pubDate>19 Jan, 2011</pubDate>
+			<description><![CDATA[This week&#39;s episode runs a little longer than usual. In it we examine the Northern Song Dynasty f]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/CHP-028-The_Northern_Song_DynastyR25.mp3?dest-id=4955980"/>
+			<itunes:duration>43:03</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 18: Education and the Chinese Exam System</title>
+			<itunes:title>Episode 18: Education and the Chinese Exam System</itunes:title>
+			<pubDate>05 Apr, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/ph7ri6/Episode_18.mp3"/>
+			<itunes:duration>45:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 29 | The Southern Song Dynasty</title>
+			<itunes:title>Ep. 29 | The Southern Song Dynasty</itunes:title>
+			<pubDate>26 Jan, 2011</pubDate>
+			<description><![CDATA[In this week&#39;s episode Laszlo finishes off the Song Dynasty after the Jin Empire captures the royal ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM2238994880.mp3?dest-id=4955980"/>
+			<itunes:duration>26:23</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 31 | The Ming Dynasty (Part 1)</title>
+			<itunes:title>Ep. 31 | The Ming Dynasty (Part 1)</itunes:title>
+			<pubDate>13 Feb, 2011</pubDate>
+			<description><![CDATA[Laszlo is back, finally, after a longer layoff than expected. This week we look at the end of the Yu]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM7909326100.mp3?dest-id=4955980"/>
+			<itunes:duration>27:33</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>BHACHOCAJ Episode 21: Zheng He and the Maritime World</title>
+			<itunes:title>Episode 21: Zheng He and the Maritime World</itunes:title>
+			<pubDate>25 Apr, 2018</pubDate>
+			<description><![CDATA[]]</description>
+			<enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/d256jv/Episode_21.mp3"/>
+			<itunes:duration>52:44</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Justin M. Jacobs</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 32 | The Ming Dynasty (Part 2)</title>
+			<itunes:title>Ep. 32 | The Ming Dynasty (Part 2)</itunes:title>
+			<pubDate>21 Feb, 2011</pubDate>
+			<description><![CDATA[In this week&#39;s episode we examine the second great emperor of the Ming Dynasty, the Yongle [Yong - L]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM9181151974.mp3?dest-id=4955980"/>
+			<itunes:duration>29:45</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 33 | The Ming Dynasty (Part 3)</title>
+			<itunes:title>Ep. 33 | The Ming Dynasty (Part 3)</itunes:title>
+			<pubDate>01 Mar, 2011</pubDate>
+			<description><![CDATA[In today&#39;s episode we look at Ming Dynasty China from the reigns of Xuande to Jiajing. This period i]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM2255420656.mp3?dest-id=4955980"/>
+			<itunes:duration>42:57</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 34 | The Ming Dynasty (Part 4)</title>
+			<itunes:title>Ep. 34 | The Ming Dynasty (Part 4)</itunes:title>
+			<pubDate>07 Mar, 2011</pubDate>
+			<description><![CDATA[We finish off our overview of the Ming Dynasty in this episode and also trace the rise of the Manchu]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM6142218520.mp3?dest-id=4955980"/>
+			<itunes:duration>43:26</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 35 | The Qing Dynasty (Part 1)</title>
+			<itunes:title>Ep. 35 | The Qing Dynasty (Part 1)</itunes:title>
+			<pubDate>18 Mar, 2011</pubDate>
+			<description><![CDATA[In this first episode covering the Qing Dynasty, we look at the Shunzhi emperor and his son, the Kan]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM6463668754.mp3?dest-id=4955980"/>
+			<itunes:duration>28:15</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 36 | The Qing Dynasty (Part 2)</title>
+			<itunes:title>Ep. 36 | The Qing Dynasty (Part 2)</itunes:title>
+			<pubDate>24 Mar, 2011</pubDate>
+			<description><![CDATA[In this episode we examine the Yongzheng emperor, the second of the three great Qing emperors who re]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM7636843318.mp3?dest-id=4955980"/>
+			<itunes:duration>20:30</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 37 | The Qing Dynasty (Part 3)</title>
+			<itunes:title>Ep. 37 | The Qing Dynasty (Part 3)</itunes:title>
+			<pubDate>31 Mar, 2011</pubDate>
+			<description><![CDATA[In this episode we look at the bittersweet reign of the Qianlong emperor. The longest reigning emper]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM4099653625.mp3?dest-id=4955980"/>
+			<itunes:duration>33:26</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 38 | The Qing Dynasty (Part 4)</title>
+			<itunes:title>Ep. 38 | The Qing Dynasty (Part 4)</itunes:title>
+			<pubDate>09 Apr, 2011</pubDate>
+			<description><![CDATA[Here we begin the turbulent, bloody and historically humiliating 19th century in China. The first ha]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM1410888243.mp3?dest-id=4955980"/>
+			<itunes:duration>41:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 6 | The Opium War</title>
+			<itunes:title>Ep. 6 | The Opium War</itunes:title>
+			<pubDate>14 Jul, 2010</pubDate>
+			<description><![CDATA[In this week&#39;s episode, we give an overview of the First Opium War, one of the most humiliating even]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM4843424713.mp3?dest-id=4955980"/>
+			<itunes:duration>33:52</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 39 | The Qing Dynasty (Part 5)</title>
+			<itunes:title>Ep. 39 | The Qing Dynasty (Part 5)</itunes:title>
+			<pubDate>18 Apr, 2011</pubDate>
+			<description><![CDATA[We&#39;re almost at the end of our Imperial China History Overview. In this segment of the China History]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM7612719772.mp3?dest-id=4955980"/>
+			<itunes:duration>41:51</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 40 | The Qing Dynasty (Part 6)</title>
+			<itunes:title>Ep. 40 | The Qing Dynasty (Part 6)</itunes:title>
+			<pubDate>25 Apr, 2011</pubDate>
+			<description><![CDATA[This week we look at China during the Tongzhi Era and part of the reign of Guangxu. This period from]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM4130567132.mp3?dest-id=4955980"/>
+			<itunes:duration>41:46</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 41 | The Qing Dynasty (Part 7)</title>
+			<itunes:title>Ep. 41 | The Qing Dynasty (Part 7)</itunes:title>
+			<pubDate>04 May, 2011</pubDate>
+			<description><![CDATA[In this episode we conclude our eight month overview of Chinese Imperial history from Yu the Great o]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM6484691663.mp3?dest-id=4955980"/>
+			<itunes:duration>46:23</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 13 | Li Ka-shing</title>
+			<itunes:title>Ep. 13 | Li Ka-shing</itunes:title>
+			<pubDate>05 Sep, 2010</pubDate>
+			<description><![CDATA[Li Ka-shing is a Hong Kong billionaire tycoon who has played a great role in not only Hong Kong&#39;s pr]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM3167756476.mp3?dest-id=4955980"/>
+			<itunes:duration>15:03</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 11 | Kang Sheng</title>
+			<itunes:title>Ep. 11 | Kang Sheng</itunes:title>
+			<pubDate>19 Aug, 2010</pubDate>
+			<description><![CDATA[Kang Sheng 康生 was a sinister character from modern Chinese history who was both Chairman Mao&#39;s close]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM9162956891.mp3?dest-id=4955980"/>
+			<itunes:duration>32:04</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 4 | The Great Leap Forward</title>
+			<itunes:title>Ep. 4 | The Great Leap Forward</itunes:title>
+			<pubDate>30 Jun, 2010</pubDate>
+			<description><![CDATA[The Great Leap Forward ( 大跃进) from 1958-1960 caused death and suffering to dozens of millions of ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM5351273327.mp3?dest-id=4955980"/>
+			<itunes:duration>35:20</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>TCHP Ep. 30 | Chinese New Year</title>
+			<itunes:title>Ep. 30 | Chinese New Year</itunes:title>
+			<pubDate>02 Feb, 2011</pubDate>
+			<description><![CDATA[This week we take a break from the history to look at the background and the traditions surrounding ]]</description>
+			<enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM5337495071.mp3?dest-id=4955980"/>
+			<itunes:duration>24:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Laszlo Montgomery</itunes:author>
+    </item>
+    <item>
+			<title>HOP 50! Ask Me Anything</title>
+			<itunes:title>50! Ask Me Anything</itunes:title>
+			<pubDate>07 Mar, 2021</pubDate>
+			<description><![CDATA[Thank you all so much! The AMA Episode was a great success and I look forward to the next 50 epis]]</description>
+			<enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/2596436c-878b-434a-beab-52f43bc0c9eb/stream.mp3"/>
+			<itunes:duration>6220</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Trevor Culley and HoPful Media</itunes:author>
+    </item>
+	</channel>
 </rss>
