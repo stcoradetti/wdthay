@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>History Podcast Metacast</title><link>https://github.com/stcoradetti/wdthay/blob/main/rss.rss</link><description>My favorite history podcasts in one chronology</description><docs>http://www.rssboard.org/rss-specification</docs><generator>Arustypileofbadscripts</generator><itunes:category text="History"/><item><title>0000 Beyond Huaxia Episode 1: History as Therapy</title><itunes:title>0000 Beyond Huaxia Episode 1: History as Therapy</itunes:title><pubDate>17 Jan, 2018</pubDate><enclosure type="audio/mpeg" url=">https://mcdn.podbean.com/mf/web/v4xhja/Episode_1.mp3"/><itunes:duration>01:29:58</itunes:duration><itunes:author>Justin M. Jacobs</itunes:author><itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog2407435/iTunes_logo.png" /></item>
 <item>
-<image>
-	<url>https://www.thebritishhistorypodcast.com/wp-content/uploads/2014/12/logo-54862c26_site_icon-32x32.png</url>
-	<title>The British History Podcast</title>
-	<link>https://www.thebritishhistorypodcast.com</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+
 
 <title>0001 The China History Podcast Ep. 15 | The Shang Dynasty</title><itunes:title>0001 The China History Podcast Ep. 15 | The Shang Dynasty</itunes:title><pubDate>15 Sep, 2010</pubDate><enclosure type="audio/mpeg" url=">https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/be7f8b11-c1d1-43ec-b3ff-e615f54dfb5f/TNM8259499276.mp3?dest-id=4955980"/><itunes:duration>35:17</itunes:duration><itunes:author>Laszlo Montgomery</itunes:author><itunes:image href="https://static.libsyn.com/p/assets/b/a/3/e/ba3e4d15a5548571d959afa2a1bf1c87/b309fb7b-21ed-40bb-9bdb-52803c80c865_445d-b5a3-b337449a3c70_1-four-great-inventions.jpgixlibrails-4.3.1max-w3000max-h3000fitcropautoformatcompress" /></item>
 <item><title>0002 History of Persia 000: Introduction</title><itunes:title>0002 History of Persia 000: Introduction</itunes:title><pubDate>12 Feb, 2019</pubDate><enclosure type="audio/mpeg" url=">https://audio3.redcircle.com/episodes/9c0c5de7-0b0d-4399-b0f3-f9a077a0161c/stream.mp3"/><itunes:duration>732</itunes:duration><itunes:author>Trevor Culley and HoPful Media</itunes:author><itunes:image href="https://media.redcircle.com/images/2024/5/25/1/64764a7b-d9bd-4cba-8883-7eab4be5eb54_fc4016bfee_1004933-1554349681572-4e672f7bbc9aa.jpg" /></item>
